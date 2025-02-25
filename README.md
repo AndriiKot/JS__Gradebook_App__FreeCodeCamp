@@ -1,4 +1,5 @@
 # Gradebook App
+
 In this mini project, you will get to 
 review JavaScript fundamentals like functions, 
 variables, conditionals and more by building a gradebook app.
